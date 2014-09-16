@@ -1,0 +1,8 @@
+c:\users\xjoker\documents\visual studio 2013\Projects\Wallpaper_Get\Wallpaper_Get\bin\Debug\Wallpaper_Get.exe
+c:\users\xjoker\documents\visual studio 2013\Projects\Wallpaper_Get\Wallpaper_Get\bin\Debug\Wallpaper_Get.pdb
+c:\users\xjoker\documents\visual studio 2013\Projects\Wallpaper_Get\Wallpaper_Get\obj\Debug\Wallpaper_Get.csprojResolveAssemblyReference.cache
+c:\users\xjoker\documents\visual studio 2013\Projects\Wallpaper_Get\Wallpaper_Get\obj\Debug\Wallpaper_Get.Properties.Resources.resources
+c:\users\xjoker\documents\visual studio 2013\Projects\Wallpaper_Get\Wallpaper_Get\obj\Debug\Wallpaper_Get.csproj.GenerateResource.Cache
+c:\users\xjoker\documents\visual studio 2013\Projects\Wallpaper_Get\Wallpaper_Get\obj\Debug\Wallpaper_Get.exe
+c:\users\xjoker\documents\visual studio 2013\Projects\Wallpaper_Get\Wallpaper_Get\obj\Debug\Wallpaper_Get.pdb
+c:\users\xjoker\documents\visual studio 2013\Projects\Wallpaper_Get\Wallpaper_Get\obj\Debug\Wallpaper_Get.Form1.resources
